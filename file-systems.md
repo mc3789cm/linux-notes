@@ -111,7 +111,7 @@ The FHS 3.0 provides a set of standards for directories and their structure in t
 operating-system. It lets software (and users) predict the location of installed directories, files, and binaries,
 addressing issues where file placements need to be coordinated between many other parties.
 
-It does not pertain to the placement of local files though, as this is a local issue and imposing such restrictions 
+Although, it does not pertain to the placement of local files, as this is a local issue and imposing such restrictions 
 on system administrators would be redundant.
 
 | Directory | Purpose                                                |

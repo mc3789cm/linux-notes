@@ -105,7 +105,7 @@ omitting the need for separate RAID layers.
 
 # Appendix
 ## FHS 3.0 (File-System Hierarchy Standard 3.0)
-This document only pertains to the **required** sections of the FHS 3.0.
+This section only pertains to the **required** specifications of the FHS 3.0.
 
 The FHS 3.0 provides a set of standards for directories and their structure in the context of a UNIX-like 
 operating-system. It lets software (and users) predict the location of installed directories, files, and binaries,
